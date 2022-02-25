@@ -1,0 +1,6 @@
+---------------------------------------------
+Copyright TheOasis Interactive 2022 All Rights Reserved,
+Do Not Distribute Without Express Permission. 
+Version {}
+Lasted Updated {}
+---------------------------------------------
